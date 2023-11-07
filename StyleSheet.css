@@ -1,0 +1,157 @@
+/* navbar design */
+#logo {
+    width: 100px;
+    padding: 0px;
+}
+
+.btn {
+    color: #ffffff;
+    border: solid 1px #B0c7dd;
+}
+
+
+
+.btn:hover {
+    color: rgb(255, 255, 255);
+    background-color: #B0c7dd;
+    border: 2px #002344;
+
+}
+
+/* body */
+body {
+    background-color: #B0c7dd;
+}
+
+
+.alert {
+
+    background-color: #6a7784;
+    color: aliceblue;
+    border: solid 2px #B0c7dd;
+    width: 80%;
+    top: 5px;
+    right: 10%;
+    left: 10%;
+    padding-bottom: 1px;
+
+}
+
+/* nabbar design  */
+.navbar {
+    border-bottom: double 3px #6a7784;
+}
+
+/* contant display */
+
+.container {
+    padding-top: 1px;
+    padding-bottom: 80px;
+
+}
+
+.contacthomepage {
+
+    background-color: aliceblue;
+    margin: 10px;
+    margin: right left 30px;
+    padding: 10px;
+    box-shadow: #002344;
+}
+
+h1 {
+    color: #023463;
+}
+
+h2,
+h4 {
+    color: rgb(60, 60, 60);
+
+}
+
+strong {
+    color: #023463;
+}
+
+/* card design */
+
+
+
+.card {
+
+    margin: 10px;
+
+}
+
+.row {
+    margin: 0px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.card-img {
+
+    background-color: black;
+    opacity: 0.3;
+
+}
+
+.ratio {
+    padding: 0px;
+    margin: 0px;
+}
+
+#contactcard {
+    border: 2px solid black;
+    color: white;
+    background-color: rgb(61, 61, 61);
+}
+
+
+
+.introduction {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.carousel-item img {
+    height: 400px;
+}
+
+h1 {
+
+    text-align: center;
+
+}
+
+.inventions-cards {
+    color: rgb(42, 41, 41);
+
+}
+
+.inventions-cards h3 {
+    text-align: center;
+    padding-top: 90px;
+}
+
+.inventions-cards img {
+    opacity: 0.5;
+    border-radius: 5px;
+}
+
+
+.inventions-paragraphs h1 {
+    text-align: left;
+}
+
+
+
+.inventions-buttons {
+    padding: 50px;
+
+}
+
+.example-title {
+    margin: 50px;
+}
