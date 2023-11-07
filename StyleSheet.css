@@ -23,7 +23,13 @@ body {
     background-color: #B0c7dd;
 }
 
-
+#headtitle{
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+    border-bottom: #002344 solid 1px;
+    font-style: italic;
+}
 .alert {
 
     background-color: #6a7784;
